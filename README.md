@@ -2,7 +2,8 @@
 
 ## Sobre
 
-CRUD- rotas de GET, POST, PUT, PATCH e DELETE, utilzando também express, cors e UUID v4.
+## `CRUD`
+GET <br> POST<br> PUT<br> PATCH<br> DELETE<br>Utilzando também EXPRESS para requisição, CORS para abrir as rotas já que os dados estão sendo salvos na propria api e UUID v4 para gerar os id de moto  randomico.
 
 ## Inicializar
 <p>Faça um clone do repositório, abra no vscode. No terminal digite o comando "npm i" após "npm run dev"</p>
