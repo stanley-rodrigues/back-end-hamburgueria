@@ -1,19 +1,20 @@
 # back-end-hamburgueria
 
-###Sobre
+## Sobre
 
 CRUD- rotas de GET, POST, PUT, PATCH e DELETE, utilzando também express, cors e UUID v4.
 
-###Inicializar
-Faça um clone do repositório, abra no vscode. No terminal digite o comando "npm i" após "npm run dev"
+## Inicializar
+<p>Faça um clone do repositório, abra no vscode. No terminal digite o comando "npm i" após "npm run dev"</p>
 
 
     
 
-### Front-end 
+## Front-end 
 
-<p>pedidos hamburgueria </p>
-<a href="https://github.com/stanley-rodrigues/front-end-hamburgueria" ></a>
+<p>Front end da aplicação </p>
+<a href="https://github.com/stanley-rodrigues/front-end-hamburgueria" >pedidos hamburgueria </a>
+
 
 ##  desenvolvedor
 
